@@ -1,1 +1,1 @@
-## LeetCode-Practice-with-Java-and-Python
+## LeetCode-Practice-with-Python
